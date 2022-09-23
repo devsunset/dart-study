@@ -18,7 +18,8 @@ https://dart.dev/resources/dartpad-best-practices
     SampleTutorials/languageSamples.dart - https://dart.dev/samples
     Codelabs
         Intro to Dart for Java Developers
-            SampleTutorials/codelabs/introtoDartforJavaDevelopers.dart - https://developers.google.com/codelabs/from-java-to-dart
+            SampleTutorials/codelabs/introtoDartforJavaDevelopers.dart
+            - https://developers.google.com/codelabs/from-java-to-dart
 
 * Language
 
