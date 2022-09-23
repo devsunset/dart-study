@@ -20,19 +20,36 @@ https://dart.dev/resources/dartpad-best-practices
         Intro to Dart for Java Developers
             SampleTutorials/codelabs/introtoDartforJavaDevelopers.dart
             - https://developers.google.com/codelabs/from-java-to-dart
+        Language cheatsheet
+            SampleTutorials/codelabs/dartcheatsheetcodelablab.dart
+            - https://dart.dev/codelabs/dart-cheatsheet
+
+--------------------------------------------------------------------------------
 
 * Language
 
+--------------------------------------------------------------------------------
+
 * Core libraries
+
+--------------------------------------------------------------------------------
 
 * Packages
 
+--------------------------------------------------------------------------------
+
 * Development
+
+--------------------------------------------------------------------------------
 
 * Tools & techniques
 
+--------------------------------------------------------------------------------
+
 * Resources
     https://dart.dev/resources
+
+--------------------------------------------------------------------------------
 
 * Related sites
     API reference
