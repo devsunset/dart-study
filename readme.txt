@@ -70,3 +70,24 @@ https://dart.dev/resources/dartpad-best-practices
         https://pub.dev/
     Blog
         https://medium.com/dartlang
+	
+--------------------------------------------------------------------------------	
+	
+Bootstrap into Dart
+
+New to the Dart language? We compiled our favorite resources to help you quickly learn Dart. Many people have reported that Dart is easy and fun to learn. We hope these resources make Dart easy for you to learn, too.
+
+Language tour
+    Your best introduction to the Dart language. Learn about Dart’s features such as strong types, closures, libraries, lexical scoping, top-level functions, named parameters, async / await, and lots more.
+Library tour
+    A good overview of Dart’s powerful core libraries. Learn about Dart’s support for collections, async, math, numbers, strings, JSON, and more.
+Intro to Dart for Java Developers codelab
+    Use your Java knowledge to get up and running quickly with Dart. Learn about classes, constructors, parameters, and interfaces with examples from the Java Tutorial.
+Effective Dart
+    Guides for style, authoring documentation, usage, and more.
+Asynchronous programming: futures, async, await codelab
+    Learn how to write asynchronous code using futures and the async and await keywords.
+Asynchronous programming: streams
+    Learn how to use streams to perform asynchronous I/O and event handling.
+
+Want to learn more and perhaps contribute? Check out the Dart community.	
